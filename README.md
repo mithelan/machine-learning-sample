@@ -1,1 +1,1 @@
-# machine-learning-sample
+# machine-learning-sample-questions
